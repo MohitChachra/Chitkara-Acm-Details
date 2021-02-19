@@ -1,6 +1,10 @@
 # Chitkara-Acm-Details
 
-An app used in our university for events registeration
+An app used in our university for events registeration.
+
+Developed using <b>Flutter, Github</b> and <b>Firebase</n>.
+
+Can handle millions of users.
 
 ⭐<b>1K+</b>⭐ downloads on playstore.
 
