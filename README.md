@@ -2,7 +2,7 @@
 
 An app used in our university for events registeration.
 
-Developed using <b>Flutter, Github</b> and <b>Firebase</n>.
+Developed using <b>Flutter, Github</b> and <b>Firebase</b>.
 
 Can handle millions of users.
 
